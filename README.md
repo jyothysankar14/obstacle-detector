@@ -16,9 +16,6 @@ This project uses an **ESP32** or **ESP8266**, an **IR sensor**, and the **Blynk
 - Jumper Wires
 - Power Supply (Battery or USB)
 
-## Circuit Diagram
-**(See wiring_diagram.png)**
-
 ## Wiring
 
 ### For ESP32
